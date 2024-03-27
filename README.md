@@ -11,7 +11,6 @@
   </a>
 </div>
 
-<br> 
 <hr>
 
 - 💭 Estou sempre aprendendo algo novo
